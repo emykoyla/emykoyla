@@ -52,7 +52,7 @@
 
 ## 📂 Repositórios em destaque
 
-- 🔗 [Projeto Mobile-Java pet-care](https://github.com/ElisabeteOliveira/projeto_pet_care_app)
+- 🔗 [Projeto Mobile-Java pet-care](https://github.com/emykoyla/Projeto_pet_care)
 - 🔗 [Projeto Web-Javascript pratas](https://github.com/Kauaog13/pratas-tg)
 
 
