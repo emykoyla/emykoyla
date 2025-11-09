@@ -60,7 +60,7 @@
 
 ## 📚 Certificações e Cursos
 
-- 🎓 **Senac - DF** — Técnico em Desenvolvimento de Sistemas *(Em andamento)*
+- 🎓 **Senac - DF** — Técnico em Desenvolvimento de Sistemas *(Concluído)*
 - 🎓 **Senac - DF** — Programador de Sistemas *(Concluído)*
 
 
