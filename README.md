@@ -33,15 +33,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emykoyla&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emykoyla&layout=compact&theme=tokyonight&count_private=true"/>
-</div>
-
----
-
 ## 🏆 Conquistas
 
 <p align="center">
@@ -80,14 +71,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
-
----
-
-## 📊 Visitantes
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/emykoyla/count.svg" />
-</p>
 
 ---
 
