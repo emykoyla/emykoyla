@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Emilly 👋🏿</h1>
 
 <p align="center">
-  🔧 Estudante de Desenvolvimento de Sistemas <br>
+  🔧 Graduanda em ADS <br>
   💻 Apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções <br>
   📍 Senac - DF | Brasil <br>
 </p>
@@ -10,7 +10,7 @@
 
 ## 🧠 Sobre mim
 
-- 📘 Atualmente estudando **Técnico em Desenvolvimento de Sistemas** no **Senac-DF**
+- 📘 Atualmente cursando **ADS** no **Senac-DF**
 - 👨🏿‍💻 Focada em aprender **Front-End**, **Back-End**, **Java**, **Banco de Dados**, **Desenvolvimento Desktop**, **Web** e **Mobile**
 - 🤝 Aberta a colaborações e projetos em equipe
 - 🚀 Buscando oportunidades para aplicar meus conhecimentos e evoluir como desenvolvedora
@@ -62,6 +62,7 @@
 
 - 🎓 **Senac - DF** — Técnico em Desenvolvimento de Sistemas *(Concluído)*
 - 🎓 **Senac - DF** — Programador de Sistemas *(Concluído)*
+- 🎓 **Senac - DF** — Graduação em Análise e Desenvolvimento de Sistemas. *(Em andamento)*
 
 
 ---
