@@ -33,14 +33,6 @@
 
 ---
 
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emykoyla&theme=onedark&row=1&margin-w=10" />
-</p>
-
----
-
 ## 📂 Repositórios em destaque
 
 - 🔗 [Projeto Mobile-Java pet-care](https://github.com/emykoyla/Projeto_pet_care)
