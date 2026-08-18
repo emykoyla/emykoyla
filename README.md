@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Emilly 👋🏿</h1>
+<h1 align="center">Olá, eu sou a Emilly 🐝</h1>
 
 <p align="center">
   🔧 Graduanda em ADS <br>
