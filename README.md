@@ -11,7 +11,7 @@
 ## 🧠 Sobre mim
 
 - 📘 Atualmente cursando **ADS** no **Senac-DF**
-- 👨🏿‍💻 Focada em aprender **Front-End**, **Back-End**, **Java**, **Banco de Dados**, **Desenvolvimento Desktop**, **Web** e **Mobile**
+- 👨🏿‍💻 Focada em aprender **Back-End**, **Java**, **Banco de Dados**, **Desenvolvimento Desktop**, **Web** e **Mobile**
 - 🤝 Aberta a colaborações e projetos em equipe
 - 🚀 Buscando oportunidades para aplicar meus conhecimentos e evoluir como desenvolvedora
 
